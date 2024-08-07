@@ -1,35 +1,22 @@
-### Hi there 👋, I'm Akhil Jillella
+<h1 align="center">Hi 👋, I'm Akhil Jillella</h1>
+<h3 align="center">A passionate Data Science enthusiast from New York</h3>
 
-#### Development and Analytics
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhiljillella&label=Profile%20views&color=0e75b6&style=flat" alt="akhiljillella" /> </p>
 
-![Development and Analytics](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.institutedata.com%2Fus%2Fblog%2Fhow-data-science-is-transforming-the-healthcare-industry%2F&psig=AOvVaw04j47y0gsWjrT8n1icxuiB&ust=1723159559374000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICU7N2D5IcDFQAAAAAdAAAAABAJ)]()
-)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhiljillella" alt="akhiljillella" /></a> </p>
 
-## About Me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/akhil-jillella-121b16201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akhil-jillella-121b16201/" height="30" width="40" /></a>
+</p>
 
-I'm Preetham from Boston. I'm a Data Science student and a coding enthusiast with a strong background in software engineering; and used to handling a variety of data pipelines and databases, included unstructured ones. I have prototyped a few products. Skilled in building and handling machine learning models. Specifically, experience in using Python for data analysis combined with forecasting and machine learning. I continually invest in improving my production capability through training and new challenges.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-- 🔭 I’m currently working on machine learning. 
-- 🌱 I’m currently learning Artificial Intelligence 
-- 💬 Ask me about Machine Learning ,Data Structures and Algorithms, Data Analysis, Anything related to Data Science or Problem Solving
-- 📫 How to reach me: https://www.linkedin.com/in/preetham-reddy-gollapalli-53497b180/ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhiljillella&show_icons=true&locale=en&layout=compact" alt="akhiljillella" /></p>
 
-## Technical Skills
-* 🐍 Python
-* 📈 R
-* 🕸️ JavaScript
-* 💻 HTML / CSS
-* 📊 PowerBI / Tableau
-* 🗄 SQL / NoSQL
-* ☁ AWS / Azure
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhiljillella&show_icons=true&locale=en" alt="akhiljillella" /></p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Preeddy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Preeddy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Preetham/)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhiljillella&" alt="akhiljillella" /></p>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=PreethamGollapalli)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PreethamGollapalli)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PreethamGollapalli&show_icons=true)   
 
